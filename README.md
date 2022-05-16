@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lightningInARock
 - 👀 I’m interested in ... everything that has connection with programming or computers
-- 🌱 I’m currently learning ... anything that I find interesting :)
+- 🌱 I’m currently learning ... anything that I find useful :)
 - 💞️ I’m looking to collaborate on ... any interesting project
 - 📫 How to reach me ... *** Currently Unaviable ***
 
