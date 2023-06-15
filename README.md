@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @lightningInARock
-- 👀 I’m interested in ... everything that has connection with programming or computers
-- 🌱 I’m currently learning ... anything that I find useful :)
-- 💞️ I’m looking to collaborate on ... any interesting project
-- 📫 How to reach me ... *** Currently Unaviable ***
+👋 Hi, I’m @lightningInARock
 
 <!---
 lightningInARock/lightningInARock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
